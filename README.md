@@ -15,8 +15,7 @@ This project simulates real-world agricultural data management—from strategic 
 | **Week 2** | Database Setup & SQL Schema Implementation | Completed ✅ | [View Docs](Week_2_DATABASE_SCHEMA_DESIGN_AND_QUERY_OPTIMIZATION.docx) |
 | **Week 3** | Data Acquisition & Cleaning Pipeline | Completed ✅ | [View Docs](Week_3_ETL_DATA_EXTRACTION.docx) |
 | **Week 4** | Advanced SQL Transformations & Aggregations | Completed ✅ | [View Docs](Week_4_DATA_AGGREGATION_AND_BUSINESS_REPORTING.docx) |
-| **Week 5** | Dashboard Development & BI Reporting | Completed ✅ | [View Docs](Week_4_DATA_AGGREGATION_AND_BUSINESS_REPORTING.docx)
- |
+| **Week 5** | Dashboard Development & BI Reporting | Completed ✅ | [View Docs](Week_4_DATA_AGGREGATION_AND_BUSINESS_REPORTING.docx)|
 | **Week 6** | Final Project Presentation & Documentation | Completed ✅ | [View Docs](Week_6_COMPREHENSIVE_PROJECT_EVALUATION_AND_FUTURE_ENHANCEMENT_STRATEGIES.docx) |
 
 ---  
