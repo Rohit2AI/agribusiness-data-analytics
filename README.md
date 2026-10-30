@@ -17,7 +17,7 @@ This project simulates real-world agricultural data management—from strategic 
 | **Week 4** | Advanced SQL Transformations & Aggregations | Completed ✅ | [View Docs](Week_4_DATA_AGGREGATION_AND_BUSINESS_REPORTING.docx) |
 | **Week 5** | Dashboard Development & BI Reporting | Completed ✅ | [View Docs](Week_4_DATA_AGGREGATION_AND_BUSINESS_REPORTING.docx)
  |
-| **Week 6** | Final Project Presentation & Documentation | Pending ⏳ | Coming soon |
+| **Week 6** | Final Project Presentation & Documentation | Completed ✅ | [View Docs](Week_6_COMPREHENSIVE_PROJECT_EVALUATION_AND_FUTURE_ENHANCEMENT_STRATEGIES.docx) |
 
 ---  
 ## 🛠️ Tech Stack & Tools
